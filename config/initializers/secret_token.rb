@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-FirstSPA::Application.config.secret_token = 'b1e9c770861234f4ee78629f29c8cf38c52ab12bc7bbad89f7e0276c47847ed3a263bd7ed4d4b2a0e865d11d8b4e4bd046b34f8fa2a2c7a2ba8fa7ec11cad56c'
+FirstSPA::Application.config.secret_token = '8f6ce09b32d61ccb582413fb3124d0c0a4af95fedc7eccf1f91a91fced12b33458cadd46a9f7244548d3e5f77146a6ae9d2c35619c2302dbb6d21df14f365a08'
